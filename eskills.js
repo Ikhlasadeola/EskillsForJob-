@@ -3,3 +3,4 @@ function area(width, length){
     return area;
 }
 console.log(area(5,7))
+3;
